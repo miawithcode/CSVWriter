@@ -1,0 +1,14 @@
+{
+  "name": "csvwriter",
+  "version": "1.0.0",
+  "description": "> A CSV Writter Class takes in an array of data obejects, and turns it into a CSV file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.26"
+  }
+}
